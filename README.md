@@ -1,8 +1,12 @@
-## Hi there 👋 
+
+## Hi there 👋
 
 ## Education
-## Skills and interests
-## Projects and competitions 
-## Publications
-## Affiliations and Memberships
 
+## Skills and interests
+
+## Projects and competitions
+
+## Publications
+
+## Affiliations and Memberships
