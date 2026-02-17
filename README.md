@@ -15,7 +15,7 @@
 
 **Bachelors in Computer Science** | 2026 :mortar_board:
 
-University of the Western Cape, Cape Town, South Africe
+University of the Western Cape, Cape Town, South Africa
 
 *(With a focus in Mathematics)*.
 
