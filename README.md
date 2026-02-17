@@ -23,7 +23,7 @@ University of the Western Cape, Cape Town, South Africe
 
 ## Skills and interests
 
-**Technical Skills** :floppy_disk:
+**Technical Skills** ::
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,godot,mysql,nodejs,py)](https://skillicons.dev)
 
