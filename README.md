@@ -5,11 +5,9 @@
 
  I am a passionate computer science student working towards my goals of being a cool dude and a smarty pants :sunglasses:
 
+ I am currently enrolled in the computer science Honours program at the University of the Western Cape where my current career goals lie at being an AI engineer at Google and to continue my studies up to the Phd level. :alien:
 
- I am currently enrolled in the computer science Honours program at the University of the Western Cape where my current career goals lie at being an AI engineer at Google and to continue my studies up to the Phd level.:alien:
-
-
- In my spare time I am either at the gym, thinking about the gym  or talking about the gym:muscle: but in the few moments of respite between you will find me gaming :space_invader: or practicing guitar :guitar:
+ In my spare time I am either at the gym, thinking about the gym  or talking about the gym :muscle: but in the few moments of respite between you will find me gaming :space_invader: or practicing guitar :guitar:
 
  (sometimes programming too QwQ)
 
@@ -31,7 +29,6 @@ University of the Western Cape, Cape Town, South Africe
 
 **Soft Skills** :bread:
 
-
 ## Projects and competitions
 
 ping ping ping
@@ -43,11 +40,3 @@ hehehe >:3
 ## Affiliations and Memberships
 
 Boo! QwQ
-
-*italics*
-
-**bold**
-
-subscript <sup>tm</sup>
-
-~~strike~~
