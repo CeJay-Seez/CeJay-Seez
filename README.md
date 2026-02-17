@@ -11,9 +11,9 @@
 
  (sometimes programming too QwQ)
 
-## `Education` :school:
+## `Education`
 
-**Bachelors in Computer Science** | 2026
+**Bachelors in Computer Science** | 2026 :mortar_board:
 
 University of the Western Cape, Cape Town, South Africe
 
@@ -50,7 +50,7 @@ University of the Western Cape, Cape Town, South Africe
 
 **Projects** :construction:
 
-![under contruction gif](https://tenor.com/en-ZA/view/cells-at-work-gif-20279508.gif)
+![Anime:cells at work under contruction gif](https://tenor.com/en-ZA/view/cells-at-work-gif-20279508.gif)
 
 *(coming soon)*.
 
@@ -63,3 +63,12 @@ No publications yet
 **Clubs** :clubs:
 
 - UWC IOT/Robotics club
+
+## `Hit me up!`
+
+<center>
+
+[![My Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/603205838706049024D)
+[![My Discord](https://skillicons.dev/icons?i=gmail)](mailto:cejaynr1@gmail.com)
+
+</center>
