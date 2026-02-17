@@ -1,7 +1,7 @@
 
-# Hi there 👋
+# `Hi there 👋`
 
-## I'm Ce-Jay Claassen
+## `I'm Ce-Jay Claassen`
 
  I am a passionate computer science student working towards my goals of being a cool dude and a smarty pants :sunglasses:
 
@@ -11,7 +11,7 @@
 
  (sometimes programming too QwQ)
 
-## Education:school:
+## `Education` :school:
 
 **Bachelors in Computer Science** | 2026
 
@@ -21,7 +21,7 @@ University of the Western Cape, Cape Town, South Africe
 
 :pencil:
 
-## Skills and interests
+## `Skills and interests`
 
 **Technical Skills** :zap:
 
@@ -29,14 +29,37 @@ University of the Western Cape, Cape Town, South Africe
 
 **Soft Skills** :bread:
 
-## Projects and competitions
+- Strong analytical and problem solving skills
+- Systems Thinking
+- Strong research capabilities
+- Teamwork/collaboration
+- Communication
 
-ping ping ping
+**Academic and professional interests** :balance_scale:
 
-## Publications
+- Neural Networks
+- Swarm Logic
+- Algorithm Design
+- Embedded Systems
 
-hehehe >:3
+## `Projects and competitions`
 
-## Affiliations and Memberships
+**Competitions** :crossed_flags:
 
-Boo! QwQ
+- Intervarsity hackathon 2026
+
+**Projects** :construction:
+
+![under contruction gif](https://tenor.com/en-ZA/view/cells-at-work-gif-20279508.gif)
+
+*(coming soon)*.
+
+## `Publications`
+
+No publications yet
+
+## `Affiliations and Memberships`
+
+**Clubs** :clubs:
+
+- UWC IOT/Robotics club
