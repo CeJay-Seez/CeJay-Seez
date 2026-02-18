@@ -69,6 +69,6 @@ No publications yet
 <div align="center">
 
 [![My Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/603205838706049024D)
-[![My Discord](https://skillicons.dev/icons?i=gmail)](mailto:cejaynr1@gmail.com)
+[![My Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cejaynr1@gmail.com)
 
 </div>
