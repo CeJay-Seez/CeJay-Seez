@@ -13,7 +13,7 @@
 
 ## `Education`
 
-**Bachelors in Computer Science** | 2026 :mortar_board:
+**Bachelors in Computer Science** | 2025 :mortar_board:
 
 University of the Western Cape, Cape Town, South Africa
 
